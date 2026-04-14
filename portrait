@@ -1,0 +1,296 @@
+<html>
+<head>
+<title> welcome to our R.N pormot </title>
+<link rel="stylesheet" href="b.css">
+<style>
+.card{
+height:400px;
+width:400px;
+}
+.card-content{
+height:400px;
+width:400px;
+}
+.text{
+border-radius:7px solid black;
+color="black"
+color:black;
+}
+</style>
+<body>
+<h1> welcome to our promt file is ai photo genrate </h1>
+
+<div class="text" img src="image/promt02.png">
+
+  <div class="card">
+    <img src="image/promt23.png" class="card-img">
+    <div class="card-content">
+      <p class="prompt-text">
+   "A professional cinematic portrait of a young man standing confidently against a dark,
+   textured background. He is wearing a light blue formal shirt, navy blue trousers, '
+   white sneakers, and stylish black sunglasses, carrying a navy blue backpack.
+   Behind him is a large, glowing neon lime-green circular halo with a soft powder-burst effect.At the bottom, 
+   the name
+   <span class="highlight">"aryan"</span> 
+   is written in a beautiful, glowing green cursive neon font. 
+   High resolution, 8K, vibrant lighting, and sharp details."
+      </p>
+      <button class="copy-btn">Copy Prompt</button>
+	 <br>
+   <span class="highlight">"aryan"</span> <p> 👆🏾  replace it with your own name.👆🏾 </p> 
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="image/promt02.png" class="card-img">
+    <div class="card-content">
+      <p class="prompt-text">
+      Natural village field scene, standing in green खेत, soft sunlight, warm golden hour lighting, realistic
+	  skin tones, gentle breeze moving crops, calm rural environment, 
+	  natural shadows, DSLR photography, 50mm lens, ultra realistic, 4K, no over-editing
+      </p>
+      <button class="copy-btn">Copy Prompt</button>
+    </div>
+  </div>
+
+  <div class="card">
+  <img src="image/promt22.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+  full body portrait of a young indian boy standing confidently, wearing a light blue formal shirt and dark blue pants,
+  carrying a backpack on one shoulder, stylish pose with one hand in pocket, crossed legs, confident attitude
+
+wearing modern black sunglasses, clean white sneakers, realistic face, natural skin tone, sharp jawline, neat hairstyle
+
+background with glowing neon whatsapp logo, bright green circular ring light behind subject, green smoke burst effect 
+around the circle, high contrast, cinematic lighting, dramatic shadows, centered composition
+
+ultra realistic, 4k, DSLR quality, depth of field, sharp focus, photorealistic, no blur, no distortion face 100% match, 4K
+    </p>
+        <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+  <div class="card">
+    <img src="image/promt12.png" class="card-img">
+    <div class="card-content">
+      <p class="prompt-text">
+      "A deeply focused cinematic photograph of a young person in a thoughtful or melancholic posture.
+	  The person, with medium-length dark wavy hair and wearing a black hoodie
+	  and dark pants, is crouching in a low-squat position, hunched over with their face hidden and head
+	  resting on their arms. They are situated in the center-mid-ground on a 
+	  lush, green grassy hill. Their hands are clasped over their knees, displaying small, distinct green 
+	  patterns on the back of their hands and wrists.
+	  The camera perspective is from a very low angle, through the blurred foreground grass, which rises around the subject.
+	  The background is a breathtaking and grand mountain vista, with the foreground green hills transitioning into a misty
+	  valley with low clouds, behind which towers a massive, sharp, snow-capped mountain peak. The sky is a warm, soft,
+	  sepia-toned golden hour light, casting a hazy, atmospheric glow over the entire landscape. The color grading is muted and moody, 
+	  with deep greens, blacks, and desaturated, warm mountain and sky colors. Natural, soft, diffused light, ultra-realistic texture.
+	  The composition is a vertical orientation, perfectly matching image_17.png."
+      </p>
+      <button class="copy-btn">Copy Prompt</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <img src="image/promt04.png" class="card-img">
+    <div class="card-content">
+      <p class="prompt-text">
+   Cute baby wearing black hoodie and sunglasses sitting on a golden royal chair, relaxed pose, garden environment
+   with flowers and greenery, three bodyguards in black 
+   suits and sunglasses standing behind in a line, strong serious expressions, a pitbull dog sitting beside the chair,
+   natural daylight, soft background blur, cinematic
+   composition, ultra realistic, DSLR 50mm lens, depth of field, high detail, 4K face 100% match
+      </p>
+      <button class="copy-btn">Copy Prompt</button>
+    </div>
+  </div>
+
+
+<div class="card">
+  <img src="image/promt.png" class="card-img">
+
+  <div class="card">
+    <p class="prompt-text">
+      Sunset beach lighting, warm golden hour tones, soft cinematic glow, natural skin tones, ocean waves in background,
+	  4K, ultra realistic, DSLR quality, face 100% match
+    </p>
+
+     <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+<div class="card">
+  <img src="image/promt05.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+      sitting outdoors in a garden, holding a white cat in hands, relaxed pose, casual outfit,
+	  soft natural sunlight, green background with plants, calm peaceful environment,
+	  realistic skin tones, slight background blur, cinematic but natural look,  photography,
+	  50mm lens, depth of field, ultra realistic, face 100% match
+    </p>
+         <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+<div class="card">
+  <img src="image/promt10.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+    "An artistic profile picture centered within a perfectly circular, prominent cyan-blue to white
+	gradient glowing neon ring. At the center of the ring is the 
+	stylized figure of the young man with messy dark hair (based on image_12.png, without sunglasses),
+	standing on a lake edge at a dramatic orange-yellow to deep-blue 
+	gradient sunset, with his arms spread wide to the side. The floating elements remain:
+	a single realistic 'M' monogram, the text 'SINGLE BOY' (copy-paste exact text
+	'SINGLE BOY'), a cracked red heart emoji, and a blue Morpho butterfly on the upper right edge.
+	Below the text, smaller Hindi text remains. The visual style is a mix
+	of photo-realism and clean artistic shading, with optimized detail levels to create a clear,
+	optimal-resolution file suitable for screens, balancing sharp focus and
+	efficient visual data compression."face 100% match
+    </p>
+     <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+<div class="card">
+  <img src="image/promt15.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+   "A full-body photograph of a young man, matching the appearance of the person in the second
+   reference image, is seen from a three-quarter back view walking down the empty asphalt road
+   in the dense, green-canopied forest of the first reference image. He wears the same light-blue
+   button-down shirt, dark trousers, and dark backpack, and his pose, walking towards the 
+   central sunlit gap, shows him looking slightly back over his right shoulder. Dappled sunlight
+   filters through the bright green leaves, creating complex light and shadow patterns on him and the road.
+   The dark road surface is in the foreground, with the lush, towering trees on both sides. 
+   The lighting is sunny and diffused. Shot on a Sony A1, natural look. face 100% match"
+    </p>
+         <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+<div class="card">
+  <img src="image/promt07.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+  "A high-quality mirror selfie of a young man with messy black hair, covering his face with a silver iPhone. 
+  He is wearing an oversized beige linen shirt with rolled-up 
+  sleeves and a classic leather strap wristwatch. The background is a modern, minimalist room with concrete walls,
+  soft sunlight streaming through a window, and aesthetic
+  wooden furniture with small plants. Natural cinematic lighting, 8k face 100% match
+    </p>
+         <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+<div class="card">
+  <img src="image/promt09.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+      "A highly-detailed, photorealistic portrait of a young man with messy, dark hair
+	  and defined facial features, wearing dark aviator sunglasses. He is styled in a 
+	  loose-fitting, short-sleeve button-up shirt with a blue-to-white gradient, dark chinos, and 
+	  a modern black smartwatch on his left wrist, hands casually placed in
+	  his pockets. The style should be a high-end fashion photograph, not an illustration. The pose is
+	  a half-body shot from the waist up. He is set against a deeply
+	  shadowed, dark grey studio background, centered within a perfectly circular, thick white border,
+	  creating a clean profile picture (DP) aesthetic. The lighting is 
+	  soft and directional, highlighting textures of the fabric and skin, with a clear focus and 
+	  realistic skin details. Cinematic,  resolution, photorealistic."    
+	  face 100% match          
+    </p>
+      <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+
+
+<div class="card">
+  <img src="image/r.n2.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+   full body portrait of a young indian boy standing confidently, wearing a light blue formal shirt and dark blue pants,
+   carrying a backpack on one shoulder, stylish pose with one hand in pocket, crossed legs, confident attitude
+
+wearing modern black sunglasses, clean white sneakers, realistic face, natural skin tone, sharp jawline, neat hairstyle
+
+background with glowing neon facebook logo, bright blue circular ring light behind subject,
+ blue energy smoke burst effect around the circle, high contrast, cinematic lighting, dramatic shadows, centered composition
+
+ultra realistic, 4k, DSLR quality, depth of field, sharp focus, photorealistic, no blur, no distortionface 100% match, 8K
+    </p>
+     <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+<div class="card">
+  <img src="image/promt14.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+      A lonely boy sitting on a rooftop at night, city lights glowing in the distance, deep blue sky, soft moonlight,
+	  emotional mood, cinematic lighting, ultra realistic, 4K, detailed shadowsface 100% match, 4K
+    </p>
+      <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+<div class="card">
+  <img src="image/promt20.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+     a chaotic collage of cartoon illustrations and graphic elements, broken and glitched composition,
+	 overlapping layers of colorful drawings, green dominant color theme, abstract shapes, doodles, random text fragments, distorted typography
+
+glitch effect, fragmented image pieces, cut and torn paper style, mixed elements of digital
+ art and hand-drawn cartoons, messy composition, surreal and random layout
+
+bright colors (green, yellow, white), high contrast, artistic chaos, modern abstract design, 
+ultra detailed, 4k, sharp textures, no clean alignment, intentionally distorted face 100% match, 8K
+    </p>
+     <button class="copy-btn">Copy Prompt</button>
+  </div>
+</div>
+
+<div class="card">
+  <img src="image/promt23.png" class="card-img">
+  <div class="card-content">
+    <p class="prompt-text">
+   Ek ultra-high-resolution aur intense dark fantasy poster.
+   Ek bada, kaala, coiled (lipta hua) mamba saap,
+   jiski aankhein purani purple aur uske sar par ek magenta rang ka punk mohawk hai,
+   ek massive neon blue glow waale letter "A" ko gherte hue.
+   Sar upar-dayein kone mein fangs dikhate hue hai. Letter "A"
+   pathar jaisa hai jiske andar se blue light nikal rahi hai. 
+   Theek beech mein wahi ladka jo image_1.png mein hai, khada hai: 
+   uski light blue formal shirt, dark blue formal trousers, white sneakers, 
+   kaale sunglasses, aur kaala backpack wahi hain. Woh casual pose mein hai,
+   haath pockets mein aur casual footwear ke saath. Background gehra kaala hai
+   jisme se gehra blue dhuan nikal raha hai. Niche, dark floor par, name "ARYAN" 
+   likha hai ek dramatic, neon blue brushed script font mein. Lighting dramatic aur cinematic hai, aur har detail sharp hai.
+    </p>
+        <button class="copy-btn">Copy Prompt</button>
+		 <br>
+		 <span class="highlight">"aryan"</span> <p> 👆🏾  replace it with your own name.👆🏾 </p> 
+  </div>
+</div>
+</div>
+<script src="script.js"></script>
+<div class="card1">
+  <p id="promptText">
+a chaotic collage of cartoon illustrations and graphic elements, glitch effect, broken composition, colorful doodles, abstract shapes, distorted typography, high detail, 4k
+  </p>
+  <button onclick="copyText()">Copy</button>
+</div>  <p id="promptText">
+
+  </p>
+  <button onclick="copyText()">Copy</button>
+</div>
+
+<script>
+function copyText() {
+  let text = document.getElementById("promptText").innerText;
+  navigator.clipboard.writeText(text);
+}
+</script>
+</body>
+</html>
